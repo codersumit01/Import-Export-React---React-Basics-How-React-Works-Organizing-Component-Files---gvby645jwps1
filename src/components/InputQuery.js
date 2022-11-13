@@ -2,6 +2,11 @@ import React from 'react'
 
 function InputQuery() {
     return (
-        <input placeHolder={'Enter your query here..'} />
+        <div>        <input placeHolder={'Enter your query here..'} />
+
+</div>
+
     )
 }
+
+export default InputQuery;
